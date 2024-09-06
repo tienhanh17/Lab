@@ -1,0 +1,15 @@
+
+h1{
+    color:rgb(52, 108, 197);
+    background: rgb(148,196,223);
+}
+.box{
+    width: 20%;
+    height: 25vh;
+    background-image: url(dog.jpg);
+    background-size: 200px;
+    position: absolute;
+    top: 112px;
+    right: 100px;
+    background-repeat: no-repeat;
+}
